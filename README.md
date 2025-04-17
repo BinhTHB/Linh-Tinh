@@ -1,4 +1,4 @@
-# 📁 Lưu Mấy Cái Linh Tinh
+# 📁 Random Stuff Storage
 
-> Nơi mình cất giữ mọi thứ từ học hành, nghiên cứu, đến những ý tưởng nửa đêm chưa kịp nhớ lại... 😄  
-> Đừng tìm sự hoàn hảo ở đây, chỉ có sự... tạm ổn và một chút ngẫu hứng.
+> A place where I keep everything — from study notes and research bits to those midnight ideas I forgot to write down... 😄  
+> Don’t expect perfection here, just a bit of organized chaos and creative randomness.
